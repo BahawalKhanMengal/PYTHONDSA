@@ -1,0 +1,1 @@
+print('this is hashmap: the hashmaps are built in python the hash maps are python dictionaries whey each thing is key value pairs in hashmaps the insertion , deletion and retriving is order of 1 is O(1)')
